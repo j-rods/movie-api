@@ -2,7 +2,7 @@
 
 Had some fun building a responsive website with open movie database API integration.
 
-![omdb api](http://www.omdbapi.com/)
+[omdb api](http://www.omdbapi.com/)
  
 Perform a movie search to get movie results and view details.
 
