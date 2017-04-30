@@ -1,8 +1,13 @@
 # Movie Database
 
-Had some fun building a responsive website with open movie database API integration.  
+Had some fun building a responsive website with open movie database API integration.
 
-Perform a movie search to get movie results and view details.  
+![omdb api](http://www.omdbapi.com/)
+ 
+Perform a movie search to get movie results and view details.
+
+![search](http://www.omdbapi.com/)  
+![details](http://www.omdbapi.com/)  
   
 ## Technologies used
 * Javascript
