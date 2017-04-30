@@ -7,6 +7,8 @@ Had some fun building a responsive website with open movie database API integrat
 Perform a movie search to get movie results and view details.
 
 ![search](https://raw.githubusercontent.com/j-rods/movie-api/master/screens/search.png)  
+  
+   
 ![details](https://raw.githubusercontent.com/j-rods/movie-api/master/screens/detail.png)  
   
 ## Technologies used
