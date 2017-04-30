@@ -1,9 +1,6 @@
 # Movie Database
 
 Had some fun building a responsive website with open movie database API integration.
-
-[omdb api](http://www.omdbapi.com/)
- 
 Perform a movie search to get movie results and view details.
 
 ![search](https://raw.githubusercontent.com/j-rods/movie-api/master/screens/search.png)  
@@ -18,3 +15,5 @@ Perform a movie search to get movie results and view details.
 * HTML5
 * CSS3
 * Bootswatch
+
+[omdb API](http://www.omdbapi.com/)
